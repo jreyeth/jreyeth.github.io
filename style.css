@@ -32,7 +32,7 @@ nav a:hover {}
     box-sizing: border-box;
     border-bottom: 0.1rem solid;
   }
-  nav, header {
+  header, nav {
     order: -1;
   }
   article {
