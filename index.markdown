@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Yo, I'm Josh. I'm an artist.
+Yo, I'm Josh. I'm an artist.
 It's nice to meet you, too.
 
 ## Cool. What kind of art do you make?
