@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: About
 ---
 # Yo, I'm Josh. I'm an artist.
 It's nice to meet you, too.
