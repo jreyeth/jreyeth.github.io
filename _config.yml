@@ -23,7 +23,7 @@ email: eth@joshreyes.com
 description: >- # this means to ignore newlines until "baseurl:"
   Josh is a digital artist. He makes art that is ASMR for your eyes.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: jreyeth.github.io  
+domain: jreyeth.github.io
 url: "https://jreyeth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jreyeth
 
